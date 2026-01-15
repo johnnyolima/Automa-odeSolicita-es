@@ -1,0 +1,37 @@
+{
+  "LOGIN_CREDENCIAS": {
+    "EMAIL": "johnny.lima@temonservicos.com.br",
+    "SENHA": "@temon2025",
+    "URL_LOGIN": "https://www.wtool.eng.br/sistemonWeb/login/login/senado",
+    "URL_SOLICITACOES": "https://www.wtool.eng.br/sistemonWeb/solicitacao/listarSolicitacao",
+    "CONTRATO": "5195 - Centro Empresarial Senado"
+  },
+  "CONFIGURACAO_SCRIPT": {
+    "CAMINHO_PLANILHA_COMANDOS": "won2.xlsx"
+  },
+  "FILTROS_PESQUISA": {
+    "id": "",
+    "dataInicialAbertura": "01-01-2025",
+    "dataFinalAbertura": "31-12-2026",
+    "statusSolicitao": "",
+    "grupo": "",
+    "abertoPor": ""
+  },
+  "MAPEAMENTO_VALORES": {
+    "CLASSIFICACAO": {
+      "sla": "Corretiva",
+      "planejada": "Corretiva Planejada"
+    },
+    "GRUPO": {
+      "hvac": "[SENADO] TEMON - HVAC",
+      "civil": "[SENADO] TEMON - CIVIL"
+    },
+    "LOCAL_MOD1": {},
+    "LOCAL_MOD2": {},
+    "LOCAL_MOD3": {}
+  },
+  "CONFIGURACOES_GERAIS": {
+    "TIMEOUT_CURTO": 15,
+    "TIMEOUT_LONGO": 35
+  }
+}
